@@ -1,4 +1,4 @@
-[![Oktus](https://raw.githubusercontent.com/oktus-io/.github/blob/main/images/thumbnail_card_secondary.png)](https://oktus.io)
+[![Oktus](https://raw.githubusercontent.com/oktus-io/.github/main/images/thumbnail_card_secondary.png)](https://oktus.io)
 
 # Oktus
 

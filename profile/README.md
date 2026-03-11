@@ -2,4 +2,4 @@
 
 # Oktus
 
-Activate your Hotel's own Autopilot with the operating system for companies. We buy you more time, raise the quality of your processes and increase your productivity and profitability.
+Activate your company's own autopilot with the operating system for companies. Oktus is an intelligent platform for companies that uses AI-powered capabilities to improve the quality of your processes and increase both productivity and profitability.
